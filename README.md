@@ -33,7 +33,7 @@ Contents
 
 - [Intro](#intro)
 - [Installation](#installation)
-    - [Mac OS X](#mac-os-x)
+    - [Mac OS X](#mac-os-x) <--- RICHARD
     - [Linux 64-bit](#linux-64-bit)
     - [Windows](#windows)
     - [FreeBSD/OpenBSD](#freebsdopenbsd)
@@ -164,7 +164,7 @@ Installation
 
 ### Mac OS X
 
-These instructions (using `install.py`) are the quickest way to install
+These instructions ==========(using `install.py`) ====== (THAT's IT) a re the quickest way to install
 YouCompleteMe, however they may not work for everyone. If the following
 instructions don't work for you, check out the [full installation
 guide](#full-installation-guide).
